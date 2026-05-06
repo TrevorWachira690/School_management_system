@@ -100,12 +100,12 @@ python main.py
 ---
 
 ## Ongoing Improvements
-
-- Improved error handling and validation  
-- Cleaner modular code structure  
-- Separation of logic into functions and files  
-- Refactoring database structure for scalability  
-- Enhancing user interaction flow  
+1. Add option to update student details
+2. Add option to delete student
+3. Add option to view all students in a class
+4. Add option to view all students in the school
+5. Have a method to store all students into in a separate file (e.g. CSV, JSON) for persistence
+6. Add option to load students from a file when the program starts
 
 ---
 
